@@ -1,0 +1,141 @@
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container{
+    background-color: rgb(133, 226, 195);
+    padding-top: 100px;
+    margin: 0;
+}
+
+.middle-container{
+    margin: 30px auto ;
+}
+
+.skills{
+    margin-top: 50px ;
+}
+
+.head{
+    margin: 50px auto;
+    font-size: 70px;
+    font-family: 'Sacramento', cursive;
+}
+
+.cloud2{
+    position:absolute;
+    bottom: 100px;
+    left: 150px;
+}
+
+.cloud1{
+    position: relative;
+    left: 300px;
+    bottom: 20px;
+    
+}
+
+p{
+    font-family: 'Montserrat';
+
+}
+
+.sub{
+    font-size: 40px;
+    font-family: 'Montserrat';
+}
+
+.profile img{
+    border-radius: 50%;
+    height: 200px;
+    margin-top: 10px;
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.webd{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.ml{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro{
+    width:30%;
+    margin: auto;
+    padding-bottom: 10px;
+    line-height: 2;
+}
+
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 7%;
+    border-color: grey;
+}
+
+h2,h3{
+    font-family: 'Montserrat';
+}
+
+.hero-btn{
+	display: inline-block;
+	text-decoration: none;
+	color:#f44336;
+	border: 1px solid #f44336;
+	padding: 12px 34px;
+	font-size: 13px;
+	background: transparent;
+	position: relative;
+	cursor: pointer;
+	
+}
+.hero-btn:hover{
+	border: 1px solid #f44336;
+	background: #f44336;
+    color: white;
+	transition: 1s;
+}
+
+.footer-text{
+    width: 40%;
+    margin: auto;
+    line-height: 2;
+}
+
+.bottom-container{
+    background-color: rgb(218, 230, 230);
+    height: 100px;
+    padding: 50px 0 10px;
+
+}
+
+.footer-link{
+    padding: 0 10px 0px 10px ;
+    text-decoration: none;
+    color: black;
+}
+
+.footer-link:hover{
+    color: #f44336;
+}
+
+.end-text{
+    padding-top: 10px;
+    font-size: 20px;
+}
